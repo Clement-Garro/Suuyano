@@ -1,4 +1,4 @@
-- 👋 Bonjour, je m'appelle @Suuyano plutot sous Suyano
+- 👋 Bonjour, je m'appelle @Suuyano plutôt sous le Pseudo de Suyano
 - 👀 je suis interéssé par la programation
 - 🌱 je suis actullement en terminale STI2D en SIN
 - 📫 vous pouvez me joindre sur :
