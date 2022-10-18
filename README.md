@@ -1,6 +1,6 @@
 - 👋 Bonjour, je m'appelle @Suuyano plutôt sous le Pseudo de Suyano
 - 👀 je suis interéssé par la programation
-- 🌱 je suis actullement en terminale STI2D en SIN
+- 🌱 je suis actullement en IUT Informatique
 - 📫 vous pouvez me joindre sur :
 -                                -Discord : スヤノ ( S u y a n o ツ )#3552
 -                                -instagram : s_u_y_a_n_o
